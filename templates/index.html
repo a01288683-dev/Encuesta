@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>'Encuesta'</title>
+    </head>
+    <body>
+        <h1>Bienvenido a Tec Smart Food Choice</h1>
+        <h2>Porfavor ingrese su matricula institucional</h2>
+        <form action="/guardar" method="POST">
+            <label for="matricula">Ingrese su matricula:</label>
+            <input id='matricula' name="matricula" type="text">
+            <button type="submit">Enviar</button>
+        </form>
+        {% if mensaje %}
+            <h3>{{ mensaje }}</h3>
+        {% endif %}
+    </body>
+</html>
