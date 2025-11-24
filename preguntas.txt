@@ -1,0 +1,82 @@
+¿En qué semestre vas?
+1
+2
+3
+4
+5
+6
+---
+¿Te gusta el sistema de Foodtrucks?
+Si
+No
+---
+¿Con qué regularidad comes en la prepa?
+Rara vez
+Algunas veces
+Regularmente
+Siempre
+---
+¿Qué prefieres: Comer en la prepa o en tu casa?
+Casa
+Prepa
+---
+¿En qué establecimiento fue el último en que comiste?
+Cafetería (Chilaquiles, Chicken Tenders)
+Food truck chilaquiles tec (Chilaquiles, Tacos de Carne asada)
+Food truck a la mar (Tacos de pescado, Tostada de Ceviche)
+Food truck grill. (Hamburguesa, Chilaquiles)
+Azúcar morena (Panini Italiano, Croissant salado)
+Healthy Shack (Panini Boneless, Boneless salad)
+---
+¿En qué establecimiento tienes pensado comer después?
+Food truck chilaquiles tec
+Food truck a la mar 
+Food truck lumbre.
+Azúcar morena
+Healthy Shack
+Cafetería
+---
+¿Cuál sería tu restaurante favorito?
+Food truck chilaquiles tec
+Food truck a la mar 
+Food truck lumbre.
+Azúcar morena
+Healthy Shack
+Cafetería
+---
+¿Qué te gustaría agregar al menú de tu restaurante favorito?
+Burripizzas
+Chicken Parm
+Grilled Cheese
+---
+¿Cual restaurante es el que se te hace más tardado?
+Food truck chilaquiles tec
+Food truck a la mar 
+Food truck lumbre.
+Azúcar morena
+Healthy Shack
+Cafetería
+---
+¿Cómo calificas el servicio de tu restaurante favorito?
+Muy malo
+Malo 
+Regular 
+Bueno
+Excelente
+---
+¿Recomendarías llevar a un amigo a tu restaurante favorito?
+Si
+No
+---
+¿Qué restaurante se te hace más caro?
+Food truck chilaquiles tec
+Food truck a la mar 
+Food truck lumbre.
+Azúcar morena
+Healthy Shack
+Cafetería
+---
+¿Si alguno de los foodtrucks desapareciera, presentarías alguna queja?
+Si
+No
+---
